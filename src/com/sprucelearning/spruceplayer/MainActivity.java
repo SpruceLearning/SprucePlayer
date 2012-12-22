@@ -1,9 +1,12 @@
 package com.sprucelearning.spruceplayer;
+
 import android.app.Activity;
 import android.net.Uri;
 import android.os.Bundle;
 import android.widget.MediaController;
 import android.widget.VideoView;
+
+import com.sprucelearning.spruceplayer.R;
 
  
 public class MainActivity extends Activity {
